@@ -9,6 +9,6 @@
 •CDN:https://cdnjs.com/
 •ICON:https://fontawesome.com/search
 
-<h2>Screen</h2>
+<h2>Page</h2>
 
 ![](tweet.gif)# Tweet
